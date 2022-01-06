@@ -44,56 +44,56 @@ function CGPACalc() {
 
         <TextField
           id="outlined-basic"
-          label="1st Semister SGPA"
+          label="1st Semester SGPA"
           variant="outlined"
           value={sub1}
           onChange={(e) => setSub1(e.target.value)}
         />
         <TextField
           id="outlined-basic"
-          label="2nd Semister SGPA"
+          label="2nd Semester SGPA"
           variant="outlined"
           value={sub2}
           onChange={(e) => setSub2(e.target.value)}
         />
         <TextField
           id="outlined-basic"
-          label="3rd Semister SGPA"
+          label="3rd Semester SGPA"
           variant="outlined"
           value={sub3}
           onChange={(e) => setSub3(e.target.value)}
         />
         <TextField
           id="outlined-basic"
-          label="4th Semister SGPA"
+          label="4th Semester SGPA"
           variant="outlined"
           value={sub4}
           onChange={(e) => setSub4(e.target.value)}
         />
         <TextField
           id="outlined-basic"
-          label="5th Semister SGPA"
+          label="5th Semester SGPA"
           variant="outlined"
           value={sub5}
           onChange={(e) => setSub5(e.target.value)}
         />
         <TextField
           id="outlined-basic"
-          label="6th Semister SGPA"
+          label="6th Semester SGPA"
           variant="outlined"
           value={sub6}
           onChange={(e) => setSub6(e.target.value)}
         />
         <TextField
           id="outlined-basic"
-          label="7th Semister SGPA"
+          label="7th Semester SGPA"
           variant="outlined"
           value={sub7}
           onChange={(e) => setSub7(e.target.value)}
         />
         <TextField
           id="outlined-basic"
-          label="8th Semister SGPA"
+          label="8th Semester SGPA"
           variant="outlined"
           value={sub8}
           onChange={(e) => setSub8(e.target.value)}
