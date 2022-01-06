@@ -51,7 +51,7 @@ function EighthSem() {
   };
 
   return (
-    <div ref={inputRef} className="cnt2 ">
+    <div ref={inputRef} className="cnt2">
       <h1>8th Semister SGPA</h1>
 
       <div className="txtFld">
